@@ -1,3 +1,6 @@
 [submodule "Wink"]
 	path = Wink
 	url = https://github.com/penrods/Wink
+[submodule "mycroft-angrybeanie"]
+	path = mycroft-angrybeanie
+	url = https://github.com/purserj/mycroft-angrybeanie
